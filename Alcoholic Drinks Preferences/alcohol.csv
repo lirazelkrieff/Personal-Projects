@@ -1,0 +1,251 @@
+id,gender,age_group,family_status,district,education_level,favourite_drink
+1,Male,36-45,married,south,academic education,whiskey
+2,female,26-35,divorced,central,academic education,beer
+3,Male,26-35,single,central,associate degree,whiskey
+4,Male,26-35,single,central,academic education,cocktail
+5,Male,36-45,married,central,higher education,whiskey
+6,female,26-35,single,sharon,secondary education,whiskey
+7,female,26-35,single,shfela,student,wine
+8,female,26-35,single,jerusalem,academic education,gin
+9,female,26-35,single,central,academic education,beer
+10,female,18-25,single,shfela,academic education,wine
+11,female,26-35,single,central,secondary education,wine
+12,female,26-35,single,central,academic education,wine
+13,female,26-35,married,central,associate degree,wine
+14,female,36-45,married,sharon,secondary education,champagne
+15,female,18-25,single,sharon,secondary education,champagne
+16,female,36-45,divorced,haifa,academic education,cocktail
+17,female,26-35,single,sharon,associate degree,cocktail
+18,Male,36-45,married,central,academic education,whiskey
+19,female,26-35,divorced,central,secondary education,cocktail
+20,female,18-25,single,central,secondary education,vodka
+21,female,36-45,divorced,central,academic education,beer
+22,Male,26-35,single,central,associate degree,beer
+23,female,18-25,single,central,associate degree,cocktail
+24,female,18-25,married,haifa,secondary education,champagne
+25,Male,36-45,married,sharon,associate degree,whiskey
+26,female,26-35,single,central,academic education,cocktail
+27,female,18-25,single,south,secondary education,breezer
+28,female,36-45,divorced,sharon,academic education,wine
+29,Male,26-35,single,central,secondary education,beer
+30,female,26-35,divorced,jerusalem,secondary education,gin
+31,female,18-25,single,central,secondary education,gin
+32,female,26-35,single,central,academic education,beer
+33,female,26-35,married,jerusalem,associate degree,arak
+34,female,26-35,married,south,associate degree,wine
+35,female,36-45,single,central,academic education,wine
+36,Male,26-35,single,south,student,beer
+37,Male,26-35,married,south,academic education,whiskey
+38,Male,26-35,married,central,associate degree,beer
+39,female,18-25,single,south,student,beer
+40,Male,26-35,single,central,academic education,martini
+41,female,26-35,divorced,central,academic education,wine
+42,female,18-25,single,north,secondary education,beer
+43,female,18-25,single,central,student,wine
+44,female,18-25,single,central,student,wine
+45,female,26-35,divorced,central,associate degree,wine
+46,female,18-25,single,central,secondary education,beer
+47,female,36-45,married,sharon,academic education,whiskey
+48,female,26-35,married,central,academic education,wine
+49,female,26-35,single,central,academic education,wine
+50,female,26-35,single,central,academic education,arak
+51,Male,26-35,married,central,academic education,whiskey
+52,Male,36-45,married,sharon,academic education,beer
+53,Male,26-35,married,south,academic education,beer
+54,Male,26-35,single,sharon,associate degree,beer
+55,Male,18-25,single,north,secondary education,arak
+56,Male,18-25,single,judea and samaria,secondary education,gin
+57,female,18-25,single,central,academic education,wine
+58,female,26-35,single,south,academic education,beer
+59,female,26-35,single,south,academic education,beer
+60,Male,26-35,married,sharon,secondary education,arak
+61,Male,26-35,married,central,higher education,wine
+62,Male,26-35,married,central,higher education,wine
+63,female,36-45,single,sharon,academic education,cocktail
+64,Male,26-35,single,central,academic education,gin
+65,female,26-35,civil partnership,central,associate degree,wine
+66,female,26-35,civil partnership,central,associate degree,wine
+67,female,26-35,single,central,academic education,beer
+68,Male,18-25,civil partnership,central,student,wine
+69,female,26-35,married,central,academic education,wine
+70,Male,36-45,single,central,associate degree,beer
+71,female,26-35,married,south,academic education,wine
+72,Male,18-25,single,central,academic education,beer
+73,female,26-35,married,haifa,associate degree,champagne
+74,female,26-35,married,central,academic education,wine
+75,female,36-45,civil partnership,central,academic education,gin
+76,female,26-35,single,central,associate degree,beer
+77,female,26-35,married,sharon,academic education,wine
+78,Male,36-45,married,sharon,secondary education,wine
+79,Male,26-35,married,central,associate degree,wine
+80,Male,26-35,married,central,higher education,whiskey
+81,Male,36-45,married,south,higher education,whiskey
+82,Male,18-25,single,central,secondary education,wine
+83,Male,18-25,single,sharon,higher education,whiskey
+84,female,26-35,single,central,student,beer
+85,Male,26-35,single,south,academic education,gin
+86,Male,26-35,single,central,higher education,whiskey
+87,female,26-35,single,sharon,academic education,cocktail
+88,Male,26-35,single,central,student,beer
+89,female,26-35,married,central,secondary education,wine
+90,female,26-35,single,central,academic education,cocktail
+91,female,26-35,single,central,academic education,wine
+92,Male,26-35,single,central,academic education,beer
+93,female,26-35,married,central,secondary education,wine
+94,Male,26-35,married,shfela,secondary education,whiskey
+95,Male,18-25,civil partnership,north,higher education,beer
+96,female,26-35,civil partnership,central,academic education,cocktail
+97,Male,36-45,married,shfela,academic education,wine
+98,Male,26-35,married,haifa,academic education,whiskey
+99,female,36-45,married,central,academic education,wine
+100,Male,26-35,married,sharon,higher education,beer
+101,female,26-35,single,sharon,secondary education,beer
+102,female,26-35,single,jerusalem,student,wine
+103,female,26-35,single,jerusalem,student,wine
+104,female,18-25,single,jerusalem,academic education,cocktail
+105,Male,36-45,married,south,academic education,whiskey
+106,Male,26-35,married,central,higher education,liquor
+107,Male,26-35,married,south,academic education,whiskey
+108,Male,36-45,married,south,academic education,whiskey
+109,Male,26-35,single,central,secondary education,beer
+110,Male,26-35,single,central,secondary education,beer
+111,Male,26-35,single,central,associate degree,beer
+112,Male,26-35,married,sharon,academic education,beer
+113,Male,36-45,civil partnership,central,academic education,whiskey
+114,Male,26-35,married,south,academic education,whiskey
+115,Male,26-35,single,central,academic education,beer
+116,Male,26-35,single,central,secondary education,beer
+117,female,36-45,married,central,academic education,wine
+118,female,18-25,single,central,academic education,cocktail
+119,female,26-35,single,central,academic education,wine
+120,female,36-45,married,sharon,secondary education,wine
+121,female,36-45,married,sharon,academic education,wine
+122,female,26-35,single,central,student,tequila
+123,female,26-35,single,shfela,academic education,beer
+124,female,36-45,married,sharon,associate degree,cocktail
+125,female,26-35,single,central,academic education,wine
+126,female,26-35,single,central,academic education,wine
+127,female,36-45,married,sharon,academic education,gin
+128,female,26-35,married,south,student,arak
+129,female,36-45,married,sharon,academic education,wine
+130,female,18-25,married,judea and samaria,academic education,wine
+131,female,26-35,married,shfela,academic education,wine
+132,female,26-35,single,jerusalem,student,beer
+133,female,26-35,married,north,student,wine
+134,female,26-35,single,central,student,wine
+135,female,18-25,single,judea and samaria,student,beer
+136,female,18-25,single,central,academic education,wine
+137,female,26-35,married,jerusalem,associate degree,tequila
+138,female,26-35,civil partnership,central,academic education,wine
+139,female,36-45,single,haifa,academic education,breezer
+140,female,36-45,married,jerusalem,academic education,cocktail
+141,female,26-35,married,sharon,academic education,wine
+142,female,26-35,single,sharon,student,wine
+143,female,18-25,single,judea and samaria,student,wine
+144,female,26-35,married,central,secondary education,cocktail
+145,female,18-25,single,central,associate degree,wine
+146,female,36-45,married,sharon,academic education,beer
+147,female,36-45,married,central,academic education,beer
+148,female,36-45,single,sharon,higher education,wine
+149,female,36-45,civil partnership,sharon,academic education,aperol
+150,female,26-35,single,central,secondary education,beer
+151,female,26-35,single,sharon,secondary education,beer
+152,female,26-35,married,shfela,academic education,wine
+153,female,18-25,single,haifa,secondary education,whiskey
+154,female,26-35,single,central,student,beer
+155,Male,18-25,single,south,academic education,beer
+156,female,18-25,single,judea and samaria,associate degree,cocktail
+157,female,18-25,single,central,secondary education,beer
+158,female,36-45,married,central,academic education,cocktail
+159,female,36-45,married,sharon,academic education,wine
+160,Male,26-35,single,south,secondary education,beer
+161,female,36-45,single,central,academic education,beer
+162,female,26-35,single,central,academic education,gin
+163,female,36-45,civil partnership,central,academic education,vodka
+164,female,26-35,single,shfela,academic education,vodka
+165,female,26-35,single,central,academic education,wine
+166,female,26-35,married,central,academic education,champagne
+167,female,36-45,married,shfela,academic education,wine
+168,Male,36-45,married,south,academic education,whiskey
+169,female,18-25,single,south,academic education,beer
+170,female,36-45,divorced,sharon,secondary education,cocktail
+171,female,26-35,divorced,central,associate degree,wine
+172,female,36-45,married,sharon,academic education,rum
+173,female,36-45,married,central,academic education,wine
+174,female,26-35,single,central,academic education,wine
+175,female,36-45,civil partnership,central,academic education,wine
+176,Male,26-35,single,shfela,academic education,beer
+177,Male,26-35,single,central,academic education,wine
+178,female,36-45,married,sharon,academic education,cocktail
+179,female,18-25,single,jerusalem,student,jagger
+180,female,26-35,single,shfela,student,wine
+181,female,36-45,single,central,higher education,wine
+182,Male,26-35,single,haifa,secondary education,beer
+183,female,36-45,single,central,academic education,whiskey
+184,female,26-35,single,sharon,academic education,wine
+185,female,18-25,single,haifa,secondary education,wine
+186,Male,36-45,divorced,shfela,academic education,beer
+187,female,36-45,single,sharon,academic education,cocktail
+188,Male,26-35,married,south,academic education,beer
+189,Male,18-25,single,north,student,beer
+190,female,26-35,single,north,academic education,cider
+191,Male,18-25,married,central,secondary education,whiskey
+192,Male,18-25,married,central,secondary education,whiskey
+193,female,26-35,single,sharon,academic education,beer
+194,female,18-25,single,central,secondary education,arak
+195,female,18-25,single,central,secondary education,beer
+196,female,36-45,single,north,academic education,wine
+197,female,26-35,married,central,academic education,wine
+198,female,36-45,divorced,jerusalem,academic education,wine
+199,Male,18-25,single,judea and samaria,academic education,champagne
+200,female,26-35,married,jerusalem,academic education,wine
+201,female,26-35,single,judea and samaria,academic education,beer
+202,Male,18-25,single,jerusalem,student,whiskey
+203,Male,26-35,single,central,academic education,whiskey
+204,Male,26-35,married,south,higher education,whiskey
+205,Male,26-35,single,central,academic education,whiskey
+206,Male,18-25,single,central,secondary education,wine
+207,female,18-25,single,central,higher education,gin
+208,female,18-25,single,sharon,student,wine
+209,female,26-35,single,central,associate degree,gin
+210,Male,36-45,married,south,secondary education,whiskey
+211,female,26-35,single,shfela,academic education,beer
+212,female,18-25,single,sharon,student,wine
+213,Male,36-45,single,central,academic education,wine
+214,female,26-35,single,central,academic education,wine
+215,Male,26-35,married,south,student,whiskey
+216,Male,18-25,single,sharon,student,wine
+217,female,26-35,single,haifa,academic education,beer
+218,female,26-35,married,judea and samaria,academic education,wine
+219,female,36-45,civil partnership,sharon,academic education,whiskey
+220,female,26-35,married,sharon,academic education,wine
+221,Male,26-35,single,central,associate degree,beer
+222,Male,26-35,married,central,academic education,beer
+223,female,36-45,married,sharon,associate degree,gin
+224,female,26-35,married,south,secondary education,vodka
+225,female,18-25,civil partnership,north,higher education,vodka
+226,Male,26-35,married,jerusalem,academic education,rum
+227,Male,26-35,married,jerusalem,academic education,rum
+228,female,26-35,single,central,student,beer
+229,Male,26-35,married,sharon,academic education,whiskey
+230,Male,26-35,single,central,secondary education,whiskey
+231,Male,26-35,married,south,secondary education,whiskey
+232,female,26-35,married,sharon,associate degree,whiskey
+233,female,26-35,married,shfela,higher education,beer
+234,Male,18-25,single,central,student,whiskey
+235,female,26-35,single,central,academic education,brandy
+236,Male,26-35,civil partnership,judea and samaria,student,wine
+237,female,18-25,single,sharon,higher education,champagne
+238,female,26-35,married,sharon,academic education,wine
+239,Male,18-25,single,central,secondary education,whiskey
+240,female,18-25,single,central,student,whiskey
+241,Male,18-25,single,south,higher education,cocktail
+242,Male,18-25,single,central,student,beer
+243,Male,18-25,single,central,student,beer
+244,female,18-25,single,central,secondary education,arak
+245,Male,26-35,single,central,secondary education,beer
+246,female,36-45,married,sharon,secondary education,gin
+247,Male,26-35,married,south,student,whiskey
+248,female,18-25,single,central,secondary education,cocktail
+249,Male,18-25,single,sharon,academic education,beer
+250,female,26-35,single,haifa,associate degree,wine
