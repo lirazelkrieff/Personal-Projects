@@ -3,7 +3,7 @@ Welcome to the repository for my Tableau visualization of the research I conduct
 
 The primary objective of this research was to explore potential variations in preferences across different demographic factors, including gender, education level, age, family status, and geographic location. By utilizing Google Forms for data collection and Google Sheets and Excel for analysis, I obtained valuable insights.
 
-The alcohol table contains the following columns:
+The `alcohol` table contains the following columns:
 
 - id
 - gender
