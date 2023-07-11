@@ -15,5 +15,5 @@ The `alcohol` table contains the following columns:
 - education_level
 - favourite_drink
 
-Feel free to explore the dashboard and engage with the interactive features to gain valuable insights into the intricate connections uncovered by the research.
+Feel free to explore the visualization and delve into the insights obtained from this research. Your feedback and comments are highly appreciated as I continue to grow as a data analyst.
 https://public.tableau.com/views/AlcoholicDrinksPreferencesinIsrael/educationgender 
